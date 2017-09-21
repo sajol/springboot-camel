@@ -1,6 +1,6 @@
 # springboot-camel
 
-A demo project for cefalo knowledge sharing session on "Riding The Apache Camel"
+A demo project for cefalo knowledge sharing session on "Riding The Apache Camel".
 All the diagrams used in the ppt are taken from "Camel In Action" book.
 
 This is a very simple demonstration to show how apache camel can help making the integration simple
